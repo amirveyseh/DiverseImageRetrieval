@@ -4,11 +4,11 @@ Implementation of a Diverse Image Retrieval system capable of retrieving relevan
 # Requirements
 To run the code you have to install this packages:
 
-- [keras] (https://keras.io/)
-- [theano] (http://deeplearning.net/software/theano/)
-- [RankNet] (https://github.com/shiba24/learning2rank)
-- [numpy] (http://www.numpy.org/)
-- [pickle] (https://docs.python.org/2/library/pickle.html)
+- keras (https://keras.io/)
+- theano (http://deeplearning.net/software/theano/)
+- RankNet (https://github.com/shiba24/learning2rank)
+- numpy (http://www.numpy.org/)
+- pickle (https://docs.python.org/2/library/pickle.html)
 
 
 # Run
